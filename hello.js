@@ -6,6 +6,11 @@ function nick(looks) {
     }
 }
 
+function tung() {
+    return 'hi'
+}
 
+'blah blah blah'
 
-console.log(nick('guapo'))
+console.log(tung())
+console.log(nick('handsome'))
