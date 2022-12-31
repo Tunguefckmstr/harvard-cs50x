@@ -1,8 +1,8 @@
 function nick(looks) {
     if (looks !== 'guapo') {
-        return 'bonito'
+        return 'Nick is bonito'
     } else {
-        return looks
+        return 'Nick is ' + looks 
     }
 }
 
